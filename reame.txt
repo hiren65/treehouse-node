@@ -1,0 +1,2 @@
+//for forcefully push remote to github
+git push origin <your_branch_name> --force
